@@ -1,0 +1,3 @@
+((beautiful)), ((best quality)), ((masterpiece)), ((ultra-detailed)), ((illustration)), ((highres)), 1girl
+Negative prompt: bad feet, bad hands, bad anatomy, bad proportions, quality, longbody, lowres, missing fingers, pubic hair, extra digit, fewer digits, cropped, worst quality, low quality, text, error, normal quality, jpeg artifacts, signature, watermark, username, blurry, out of focus, censorship, missing vagina, blurry faces, blank faces, bad face, ugly, extra ear, amputee, missing hands, missing arms, missing legs, extra fingers, 6 fingers, extra feet, missing nipples, ghost
+Steps: 30, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 2095764641, Size: 768x1152, Model hash: 6ce0161689, Model: v1-5-pruned-emaonly
